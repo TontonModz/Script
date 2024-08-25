@@ -1,3 +1,5 @@
+-- simple script pour prendre votre service quand vous êtes ig.
+
 ESX = exports['so_213']:getSharedObject()
 local PlayerData = {}
 
